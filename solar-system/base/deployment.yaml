@@ -19,4 +19,4 @@ spec:
           image: xllauca/uoc-tfm:latest
           imagePullPolicy: Always
           ports:
-            - containerPort: 8080
+            - containerPort: 4040
