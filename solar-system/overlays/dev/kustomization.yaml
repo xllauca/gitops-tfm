@@ -1,0 +1,10 @@
+resources:
+  - ../../base
+
+namePrefix: dev-
+
+images:
+  - name: siddharth67/solar-system
+    newTag: v3
+
+namespace: solar-system-dev
