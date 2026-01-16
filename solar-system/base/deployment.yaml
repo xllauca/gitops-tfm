@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: solar-system
-          image: xllauca/uoc-tfm:latest
-          imagePullPolicy: Always
+          image: docker.io/xllauca/uoc-tfm@sha256:3fbb6e6f2546b7fccbdbd6883268f4005d011952cffbaef07af0dc77931d0550
+          imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 4040
