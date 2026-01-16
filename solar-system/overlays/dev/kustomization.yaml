@@ -6,6 +6,6 @@ namePrefix: dev-
 images:
   - name: xllauca/uoc-tfm
     newName: xllauca/uoc-tfm
-    digest: sha256:PLACEHOLDER
+    digest: sha256:ecf75d24bdbd66517696e25fcdfe1ea9b183d7d023d7aba393d916b3332af93e
 
 namespace: solar-system-devgit 
